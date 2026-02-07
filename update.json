@@ -1,9 +1,10 @@
 {
   "app": "SUT_KONTROL",
-  "latest_version": "v1.0.3",
+  "latest_version": "v1.0.2",
   "release_date": "07.02.2026",
-  "download_url": "https://ornek.com/SUT_Kontrol_Setup.exe",
+  "download_url": "https://github.com/sutkontrol/sut-kontrol-update/releases/latest",
   "notes": [
-    "Güncelleme sistemi eklendi"
+    "Güncelleme sistemi eklendi",
+    "Görünür güncelleme penceresi düzeltildi"
   ]
 }
